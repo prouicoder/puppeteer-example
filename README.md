@@ -1,1 +1,2 @@
-# puppeteer-example
+# puppeteer-examples
+The Power of puppeteer

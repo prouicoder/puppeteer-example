@@ -1,0 +1,29 @@
+{
+  "name": "puppeteer-examples",
+  "version": "1.0.0",
+  "description": "The Power of Puppeteer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prouicoder/puppeteer-examples.git"
+  },
+  "keywords": [
+    "Puppeteer",
+    "Javascript",
+    "NodeJs",
+    "ExpressJs"
+  ],
+  "author": "Karthick Kuppusamy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prouicoder/puppeteer-examples/issues"
+  },
+  "homepage": "https://github.com/prouicoder/puppeteer-examples#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "puppeteer": "^1.16.0"  
+  }
+}
