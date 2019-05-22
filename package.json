@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/prouicoder/puppeteer-examples#readme",
   "dependencies": {
+    "cron": "^1.7.1",
     "express": "^4.17.0",
-    "puppeteer": "^1.16.0"  
+    "puppeteer": "^1.16.0"
   }
 }
